@@ -105,11 +105,11 @@ export default function Home() {
       </Head>
       <div className={styles.topnav}>
       <div className = {styles.navlogo}>
-    <a href="/">LangChain</a>
+    <a href="/">Manifestor.ai</a>
     </div>
     <div className = {styles.navlinks}>
-    <a href="https://langchain.readthedocs.io/en/latest/" target="_blank">Docs</a>
-    <a href="https://github.com/zahidkhawaja/langchain-chat-nextjs" target="_blank">GitHub</a>
+    <a href="" target="_blank">About</a>
+    <a href="" target="_blank">Go Deeper</a>
     </div>
 </div>
       <main className={styles.main}>
@@ -163,7 +163,7 @@ export default function Home() {
             </form>
             </div>
             <div className = {styles.footer}>
-            <p>Powered by <a href = "https://github.com/hwchase17/langchain" target="_blank">LangChain</a>. Built by <a href="https://twitter.com/chillzaza_" target="_blank">Zahid</a>.</p>
+            <p>Powered by <a href = "manifestor.ai" target="_blank">Manifestor.ai</a></p>
             </div>
         </div>
       </main>
