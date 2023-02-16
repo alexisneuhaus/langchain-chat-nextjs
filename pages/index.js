@@ -98,7 +98,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title></title><img src="https://langchain-chat-nextjs.vercel.app/manifestorlogo.png" />
+        <title>Manifestor</title>
         <meta name="description" content="LangChain documentation chatbot" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
