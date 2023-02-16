@@ -98,7 +98,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Manifestor.ai</title>
+        <title>/title><img src="public/Screen Shot 2023-02-16 at 9.21.41 AM.png">
         <meta name="description" content="LangChain documentation chatbot" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
